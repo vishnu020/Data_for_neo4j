@@ -1,4 +1,4 @@
-﻿Order_ID,Order_Date,Customer_Name,Country,State,City,Region,Segment,Ship_Mode,Category,Sub_Category,Product_Name, Discount , Sales , Profit ,Quantity,Feedback?
+﻿Order_ID,Order_Date,Customer_Name,Country,State,City,Region,Segment,Ship_Mode,Category,Sub_Category,Product_Name, Discount , Sales , Profit ,Quantity,Feedback
 BN-2011-7407039,1/1/2011,Ruby Patel,Sweden,Stockholm,Stockholm,North,Home Office,Economy Plus,Office Supplies,Paper,"Enermax Note Cards, Premium",0.5,45,-26,3,FALSE
 AZ-2011-9050313,3/1/2011,Summer Hayward,United Kingdom,England,Southport,North,Consumer,Economy,Furniture,Bookcases,"Dania Corner Shelving, Traditional",    ,854,290,7,TRUE
 AZ-2011-6674300,4/1/2011,Devin Huddleston,France,Auvergne-Rhône-Alpes,Valence,Central,Consumer,Economy,Office Supplies,Art,"Binney & Smith Sketch Pad, Easy-Erase",    ,140,21,3,TRUE
